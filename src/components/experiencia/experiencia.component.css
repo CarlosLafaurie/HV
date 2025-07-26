@@ -1,0 +1,34 @@
+.experiencia {
+  padding: 1.5rem;
+  margin: 1rem 0;
+  background-color: #ffffff;
+  border-left: 4px solid #388e3c;
+  border-radius: 8px;
+}
+
+.experiencia h3 {
+  color: #388e3c;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.experiencia article {
+  margin-bottom: 1.5rem;
+}
+
+.experiencia h4 {
+  font-size: 1.2rem;
+  color: #2e7d32;
+  margin-bottom: 0.5rem;
+}
+
+.experiencia p,
+.experiencia li {
+  font-size: 1rem;
+  color: #444;
+  line-height: 1.6;
+}
+
+.experiencia ul {
+  padding-left: 1.2rem;
+}

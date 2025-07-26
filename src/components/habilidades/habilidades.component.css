@@ -1,0 +1,24 @@
+.habilidades {
+  padding: 1.5rem;
+  margin: 1rem 0;
+  background-color: #fffdf7;
+  border-left: 4px solid #4caf50;
+  border-radius: 8px;
+}
+
+.habilidades h3 {
+  color: #4caf50;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.habilidades ul {
+  padding-left: 1.5rem;
+  list-style: square;
+}
+
+.habilidades li {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 0.5rem;
+}

@@ -1,0 +1,24 @@
+.educacion {
+  padding: 1.5rem;
+  margin: 1rem 0;
+  background-color: #f9f9f9;
+  border-left: 4px solid #1976d2;
+  border-radius: 8px;
+}
+
+.educacion h3 {
+  color: #1976d2;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.educacion ul {
+  padding-left: 1.5rem;
+  list-style: disc;
+}
+
+.educacion li {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
